@@ -53,3 +53,4 @@
     - `git fetch --all` 후 `git checkout ${대상 branch}`명령을 통해 제출된 code를 직접 확인할 수 있음
 2. 리뷰가 완료되면 'submit review' 버튼을 눌러 리뷰가 완료되었음을 알림
 3. 리뷰 받은 코드 주인은 해당 review에 대한 설문지 작성
+
